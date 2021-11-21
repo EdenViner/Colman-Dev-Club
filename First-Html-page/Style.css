@@ -1,0 +1,40 @@
+.Header_bg{
+    background-color:#E4F9F5; }
+.Footer_bg{
+    background-color:#66BFBF; }
+.Hr_Footer_style{
+   color:#EAF6F6; }
+.head{
+    text-align: center;
+   color:#66BFBF; 
+   font-family: 'Sacramento';
+}
+.main_text{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+.H1_H2_style{
+    color:#66BFBF;
+    text-align: center;
+    font-family: 'Merriweather';
+}
+.cloud1{
+    margin-right: 300px;
+    margin-top: 40px;
+}
+.cloud2{
+    margin-left: 250px;
+    margin-bottom: 300px;
+    width: auto;
+    height: auto;
+}
+.mountain{
+    align-content: center; }
+.H3_style{
+   color:#11999E; }
+.button_style{
+   background-color:#11cdd4 ;
+   }
+.H1_H2{
+   background-color:#66BFBF }

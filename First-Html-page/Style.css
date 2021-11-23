@@ -1,40 +1,116 @@
 .Header_bg{
-    background-color:#E4F9F5; }
+    background-color:#E4F9F5; 
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -35px;
+    margin-bottom: 70px;    
+}
 .Footer_bg{
-    background-color:#66BFBF; }
+    text-align: center;
+    background-color:#66BFBF; 
+    color: white;
+    border: none;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    margin: -.5em;
+}
+.links {
+    text-align: auto center;
+    color: #11999E;
+    display: inline;
+    padding: 1%;
+    padding-right: 65px;
+}
 .Hr_Footer_style{
    color:#EAF6F6; }
 .head{
+    padding-top: 120px;
+    font-size: 300%;
     text-align: center;
    color:#66BFBF; 
    font-family: 'Sacramento';
 }
 .main_text{
+    margin-top: 100px;
     color: #40514E;
     text-align: center;
-    font-family: 'Montserrat';
+    font-family: 'Merriweather';
+}
+.main_text2{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather';
+    margin-right: 40em;
+    margin-left: 40em;
 }
 .H1_H2_style{
     color:#66BFBF;
     text-align: center;
-    font-family: 'Merriweather';
+    font-family: 'Montserrat';
+}
+.btn_primary {
+    font-size: 20px;
+    align-self: center;
+    color: white;
+    background-color: #11cdd4;
+    border: none;
+    border-radius: .4em;
+    padding: 10px;
+    font-family: 'Montserrat';
+}
+
+.btn_primary:hover {
+    background-color: #30e3cb;
 }
 .cloud1{
-    margin-right: 300px;
+    float: right;
+    margin-right: 1px;
     margin-top: 40px;
 }
 .cloud2{
+    float: left;
     margin-left: 250px;
     margin-bottom: 300px;
     width: auto;
     height: auto;
 }
+.main_paragraphs{
+    color: #40514E;
+    text-align: left;
+    font-family: 'Merriweather';
+}
 .mountain{
-    align-content: center; }
+    text-align: auto;  
+    margin-top: 50px;
+}
 .H3_style{
+    font-family: 'Montserrat';
+    text-align: left;
    color:#11999E; }
-.button_style{
-   background-color:#11cdd4 ;
-   }
+.H3_style_mid{
+    font-family: 'Montserrat';
+    text-align: center;
+   color:#11999E; }
 .H1_H2{
    background-color:#66BFBF }
+.profile{
+    border-radius: 50%;
+    max-width: 10%;
+   }
+.aaa{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.gif1{
+    float: right;
+    height: 130px;
+    width: auto;
+    margin: 15px;
+}
+.gif2{
+    float: left;
+    height: 140px;
+    width: auto;
+    margin: 15px;
+}
